@@ -1,15 +1,76 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on creative and data-driven projects that combine AI, analytics, and interactive design  <br><br>👯 I’m looking to collaborate on meaningful tech projects, especially ones involving web development, data, or creative problem-solving  <br><br>🤝 I’m looking for help with sharpening my development skills, building better project workflows, and creating more polished user experiences  <br><br>🌱 I’m currently learning more about business analytics, AI applications, and how to turn ideas into real, working products  <br><br>💬 Ask me about analytics, project concepts, storytelling, dashboards, or anything creative-tech related  <br><br>⚡ Fun fact: Outside of tech, I’m into food, travel, movies, games, and almost anything that lets me explore or create something new
+# Hi, I'm Ash 👋
 
+**Business Analytics · Finance · Data-Driven Decision Making**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashg2109&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ashg2109&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashg2109&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> *I'm the kind of person who notices when a number looks off, when a process could run cleaner, or when one small detail changes the whole story.*
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashg2109&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎓 Currently
+
+- 📚 Completing a **Master of Business Analytics** at **Macquarie University** *(Dec 2026)*
+- 🔨 Building a portfolio of end-to-end analytics and finance projects
+- 🔍 Seeking **analyst and consulting roles** in Sydney's finance and technology sector
+- 📍 Based in North Ryde, Sydney NSW
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages & Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Business Intelligence & Visualisation**
+
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Other Tools**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 📂 Projects
+
+| # | Project | Tools | Status |
+|---|---------|-------|--------|
+| 1 | 🏦 Credit Risk Scorecard — ML model predicting loan default probability | Python · XGBoost · Streamlit | 🔨 In progress |
+| 2 | 🛍️ Retail Sales Intelligence Hub — End-to-end BI dashboard | Power BI · SQL · DAX | ⏳ Coming soon |
+| 3 | 📉 Customer Churn Predictor — Classification model + business story | Python · SHAP · Tableau | ⏳ Coming soon |
+| 4 | 📈 ASX Financial Intelligence Report — Live market data + forecasting | Python · yFinance · Power BI | ⏳ Coming soon |
+| 5 | 📊 Marketing Mix Modelling — Channel attribution + budget optimisation | R · Python · Tableau | ⏳ Coming soon |
+
+---
+
+### 💼 Background
+
+Before the master's, I spent 3+ years working across **financial reporting, forecasting, reconciliations, risk assessment, and stakeholder coordination** across fintech, logistics, and professional services.
+
+Those roles taught me something no textbook really captures: when the numbers have to be right, they have to be right.
+
+I bring that same standard to data analytics.
+
+---
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishwarya-gaikwad-6931b6195)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaikwadaishu89@gmail.com)
+
+---
+
+*Precise by nature · Analytical by training · A little perfectionist in the best possible way*
