@@ -11,7 +11,7 @@
 - 📚 Completing a **Master of Business Analytics** at **Macquarie University** *(Dec 2026)*
 - 🔨 Building a portfolio of end-to-end analytics and finance projects
 - 🔍 Seeking **analyst and consulting roles** in Sydney's finance and technology sector
-- 📍 Based in North Ryde, Sydney NSW
+- 📍 Based in Sydney NSW
 
 ---
 
