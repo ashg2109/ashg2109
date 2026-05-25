@@ -52,7 +52,7 @@
 | 2 | 🛍️ Retail Sales Intelligence Hub - End-to-end BI dashboard | Power BI · SQL · DAX | ⏳ Coming soon |
 | 3 | 📉 Customer Churn Predictor - Classification model + business story | Python · SHAP · Tableau | ⏳ Coming soon |
 | 4 | 📈 ASX Financial Intelligence Report - Live market data + forecasting | Python · yFinance · Power BI | ⏳ Coming soon |
-| 5 | 📊 Marketing Mix Modelling - Channel attribution + budget optimisation | R · Python · Tableau | ✅ Complete — [View →](https://github.com/ashg2109/marketing-mix-model) |
+| 5 | 📊 Marketing Mix Modelling - Channel attribution + budget optimisation | R · Python · Tableau | ✅ Complete - [View →](https://github.com/ashg2109/marketing-mix-model) |
 
 ---
 
